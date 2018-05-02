@@ -6,7 +6,7 @@ This Application allows the user to bet a certain number of credits and spin the
 match, the user wins. The winning credits are calculated as: Value of Item displayed in the Wheel * Number of Credits bet. <br>
 </p>
 
-<br><br>
+<br>
 
 <h2>The Features</h2>
 <ul>
@@ -20,35 +20,41 @@ match, the user wins. The winning credits are calculated as: Value of Item displ
     <li> Save Statistics to a file (Name of the File: Date and Time) </li>
 </ul>
 
-<br><br>
+<br>
 
 <h2>The Symbols</h2>
 <ul>
     <li> 
         Cherry | Value: 2 
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/cherry.png' alt='Cherry Symbol'>
     </li>
     <li> 
         Lemon | Value: 3 
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/lemon.png' alt='Lemon Symbol'>
     </li>
     <li> 
         Plum | Value: 4 
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/plum.png' alt='Plum Symbol'>
     </li>
     <li> 
         Melon | Value: 5 
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/melon.png' alt='Melon Symbol'>
     </li>
     <li> 
         Bell | Value: 6 
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/bell.png' alt='Bell Symbol'>
     </li>
     <li> 
         RedSeven | Value: 7 
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/redseven.png' alt='RedSeven Symbol'>
     </li>
 </ul>
 
-<br><br>
+<br>
 
 <h2>Screenshots of the Application</h2>
 
-<br><br>
+<br>
 
 <h2>How does it work?</h2>
 
