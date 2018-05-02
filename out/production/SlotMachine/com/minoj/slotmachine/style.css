@@ -1,0 +1,128 @@
+@font-face {
+    src: url('geforce-bold.ttf');
+}
+@font-face {
+    src: url('geforce-light.ttf');
+}
+
+.background {
+    -fx-background-color: #fff;
+}
+
+.lblTop {
+    -fx-background-color: #2ecc71;
+    -fx-text-fill: #fff;
+    -fx-padding: 10;
+    -fx-effect: dropshadow(three-pass-box, grey, 5, 0, 0, 2);
+}
+
+.lblError {
+    -fx-text-fill: #e74c3c;
+    -fx-font-family: "GeForce";
+    -fx-font-weight: 900;
+    -fx-font-size: 24px;
+}
+
+.lblSpinInfo {
+    -fx-text-fill: #22A7F0;
+    -fx-font-family: "GeForce";
+    -fx-font-weight: 900;
+    -fx-font-size: 24px;
+}
+
+.lblImg {
+    -fx-effect: dropshadow(three-pass-box, black, 10, 0, 0, 0);
+    -fx-min-height: 200;
+    -fx-max-height: 200;
+    -fx-min-width: 200;
+    -fx-max-width: 200;
+}
+
+.lblStats {
+    -fx-background-color: rgba(26, 188, 156,1.0);
+    -fx-font-family: "GeForce";
+    -fx-padding: 10;
+    -fx-text-fill: #fff;
+    -fx-font-size: 15px;
+    -fx-effect: dropshadow(three-pass-box, black, 2, 0, 0, 0);
+}
+
+.lblAverageCreds {
+    -fx-background-color: rgba(155, 89, 182,1.0);
+    -fx-font-family: "GeForce";
+    -fx-text-fill: #fff;
+    -fx-font-size: 18px;
+    -fx-padding: 10;
+}
+
+.button {
+    -fx-font-family: 'Gotham Book';
+    -fx-min-width: 100px; 
+    -fx-min-height: 60px; 
+    -fx-max-width: 100px;
+    -fx-max-height: 60px;
+    -fx-background-color: rgba(236, 240, 241,1.0);
+    -fx-text-fill: #000;
+    -fx-border-radius: 50;
+    -fx-alignment: center;
+    -fx-font-size: 12px;
+}
+
+.button:hover {
+    -fx-effect: dropshadow(three-pass-box, black, 3, 0, 0, 1);
+    -fx-background-color: rgba(236, 240, 241,0.6);
+    -fx-border-radius: 50;
+    -fx-border-color: rgba(236, 240, 241,0.0);
+    -fx-text-fill: #000;
+}
+
+.btnSpin {
+    -fx-background-color: #22A7F0;
+    -fx-min-width: 100px;
+    -fx-min-height: 100px;
+    -fx-max-width: 100px;
+    -fx-max-height: 100px;
+    -fx-text-fill: #fff;
+    -fx-background-radius: 25em;
+    -fx-alignment: center;
+    -fx-font-weight: 900;
+    -fx-font-size: 24px;
+}
+
+.btnSpin:hover {
+    -fx-background-color: rgba(52, 152, 219,0.6);
+    -fx-text-fill: #fff;
+    -fx-border-color: rgba(52, 152, 219,0.6);
+}
+
+.btnReset {
+    -fx-background-color: #e74c3c;
+    -fx-text-fill: #fff;
+    -fx-border-color: #e74c3c;
+}
+
+.btnReset:hover {
+    -fx-background-color: #c0392b;
+    -fx-text-fill: #fff;
+}
+
+.btnSave {
+    -fx-background-color: rgba(52, 73, 94,1.0);
+    -fx-text-fill: #fff;
+}
+
+.btnSave:hover {
+    -fx-background-color: rgba(52, 73, 94,0.7);
+    -fx-text-fill: #fff;
+    -fx-border-color: rgba(52, 73, 94,0.7);
+    -fx-border-radius: 0;
+}
+
+.topGrid {
+    -fx-padding-top: 25px;
+}
+
+.bottomSplit {
+    -fx-background-color: #fff;
+    -fx-min-height: 100;
+}

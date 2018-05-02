@@ -1,0 +1,6 @@
+Winnings : 1
+Losses : 1
+Credits Bet : 8
+Credits Won : 35
+Total Spins : 2
+Average Credits Won Per Spin : 13.5
