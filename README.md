@@ -10,14 +10,14 @@ match, the user wins. The winning credits are calculated as: Value of Item displ
 
 <h2>The Features</h2>
 <ul>
-    <li> Bet any number of credits (As long as you have that number of credits) </li>
-    <li> Bet 3 credits at once by clicking on the Bet Max button </li>
-    <li> Add Unlimited Credits to your Credits </li>
-    <li> Reset the Bet Amount whenever required <li>
-    <li> Spin the Wheels when you have credits in the Bet Amount </li>
-    <li> Ability to Stop one wheel at an instance </li>
-    <li> View Statistics (Only after playing atleast one game) </li>
-    <li> Save Statistics to a file (Name of the File: Date and Time) </li>
+    <li> Bet any number of credits (As long as you have that number of credits). </li>
+    <li> Bet 3 credits at once by clicking on the Bet Max button. </li>
+    <li> Add Unlimited Credits to your Credits. </li>
+    <li> Reset the Bet Amount whenever required. <li>
+    <li> Spin the Wheels when you have credits in the Bet Amount. </li>
+    <li> Ability to Stop one wheel at an instance. </li>
+    <li> View Statistics (Only after playing atleast one game). </li>
+    <li> Save Statistics to a file (Name of the File: Date and Time). </li>
 </ul>
 
 <br>
@@ -26,33 +26,63 @@ match, the user wins. The winning credits are calculated as: Value of Item displ
 <ul>
     <li> 
         Cherry | Value: 2 
-        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/cherry.png' alt='Cherry Symbol'>
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/cherry.png' width='64' alt='Cherry Symbol'>
     </li>
     <li> 
         Lemon | Value: 3 
-        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/lemon.png' alt='Lemon Symbol'>
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/lemon.png' width='64' alt='Lemon Symbol'>
     </li>
     <li> 
         Plum | Value: 4 
-        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/plum.png' alt='Plum Symbol'>
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/plum.png' width='64' alt='Plum Symbol'>
     </li>
     <li> 
         Melon | Value: 5 
-        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/melon.png' alt='Melon Symbol'>
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/melon.png' width='64' alt='Melon Symbol'>
     </li>
     <li> 
         Bell | Value: 6 
-        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/bell.png' alt='Bell Symbol'>
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/bell.png' width='64' alt='Bell Symbol'>
     </li>
     <li> 
         RedSeven | Value: 7 
-        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/redseven.png' alt='RedSeven Symbol'>
+        <img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/redseven.png' width='64' alt='RedSeven Symbol'>
     </li>
 </ul>
 
 <br>
 
 <h2>Screenshots of the Application</h2>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1.png' alt='Main Screen'>
+<small>Screenshot of the Main Screen.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_ADD_CREDIT_2.png' alt='Add Credits'>
+<small>Screenshot after clicking on the Add Credits Button.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_BET_MAX.png' alt='Bet Max'>
+<small>Screenshot after clicking on the Bet Max Button.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_RESET.png' alt='Reset'>
+<small>Screenshot after clicking on the Reset Button.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_SPIN.png' alt='Spin'>
+<small>Screenshot after clicking on the Spin Button. Once the button is clicked, the bet amount is reset but stored to use to calculate winnings if the user wins.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_SPIN_LOSE.png' alt='Spin Lose'>
+<small>Screenshot after stopping all the three spinning wheels and the user has lost.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_SPIN_WIN.png' alt='Spin Win'>
+<small>Screenshot after stopping all the three spinning wheels and the user has won. The Winnings is also displayed to the user.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_TRYING.png' alt='Spin Trying again'>
+<small>Screenshot after clicking on the Spin Button while the wheels are already spinning.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_STATS.png' alt='Statistics Window'>
+<small>Screenshot of the statistics window which allows the user to view their statistics if they've played atleast one game.</small>
+
+<img src='https://raw.githubusercontent.com/minojsos/slot-machine-javafx/master/images/Image_1_STATS_SAVED_TO_FILE.png' alt='Statistics saved to file'>
+<small>Screenshot after clicking on Save Button. Statistics saved to File with the name as current date and time.</small>
 
 <br>
 
