@@ -13,7 +13,7 @@ match, the user wins. The winning credits are calculated as: Value of Item displ
     <li> Bet any number of credits (As long as you have that number of credits). </li>
     <li> Bet 3 credits at once by clicking on the Bet Max button. </li>
     <li> Add Unlimited Credits to your Credits. </li>
-    <li> Reset the Bet Amount whenever required. <li>
+    <li> Reset the Bet Amount whenever required. </li>
     <li> Spin the Wheels when you have credits in the Bet Amount. </li>
     <li> Ability to Stop one wheel at an instance. </li>
     <li> View Statistics (Only after playing atleast one game). </li>
