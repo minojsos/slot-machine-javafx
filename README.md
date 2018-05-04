@@ -1,4 +1,4 @@
-# slot-machine-javafx
+# Slot Machine Javafx
 <h1>A JavaFX based GUI Application</h1>
 <p>
 This is a JavaFX based GUI Application - A Slot Machine. <br />
